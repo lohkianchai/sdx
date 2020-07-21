@@ -1,1 +1,1 @@
-# sdx
+# Sensors Data Exchange Public Repo
